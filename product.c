@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-#include <stdlib.h>
 #include "product.h"
 
 int addProduct(Product *p){
